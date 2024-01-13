@@ -1,5 +1,5 @@
 # lojongapp
-Poc de apresentação das features novas do cliente lojong
+Poc de apresentação das features  lojong
 
 ## Requirements
 ```
